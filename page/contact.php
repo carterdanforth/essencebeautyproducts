@@ -74,11 +74,11 @@
             </div>
             
             <div class="row content">
-                <p>Youthful Beauty Products</p>
+                <p>Essence Beauty Products</p>
                 <p>500 3rd Street</p>
                 <p>San Francisco, CA 94107</p>
                 <p>Phone:  (415) 817-1068</p>
-                <p>Email: <a href="mailto:contact@youthfulbeautyproducts.org">contact@youthfulbeautyproducts.org</a></p>  
+                <p>Email: <a href="mailto:contact@essencebeautyproducts.com">contact@essencebeautyproducts.com</a></p>  
             </div>
         </div>
         <?php include('../footer.php'); ?>

@@ -36,7 +36,7 @@ document.onclick=reEnable
 
 <meta charset="utf-8">
 
-<title>Premium Beauty Products-Testers Wanted!</title>
+<title>Essence Beauty Products-Testers Wanted!</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -713,7 +713,7 @@ $result = "{$tracking_link}{$params}";
 
       <blockquote>
 
-        <p>&quot;Two Top Brands creams! Thank you very much YouthfulBeautyProducts.org!!&quot;</p>
+        <p>&quot;Two Top Brands creams! Thank you very much EssenceBeautyProducts.com!!&quot;</p>
 
         <small>Becka, Franklin, North Carolina</small>
 
@@ -732,7 +732,7 @@ $result = "{$tracking_link}{$params}";
   </div></div>
 
 
-    <footer><p>&copy; Copyright 2016. - YouthfulBeautyProducts.org - All Rights Reserved</p>
+    <footer><p>&copy; Copyright 2016. - EssenceBeautyProducts.com - All Rights Reserved</p>
       <p>All trademarks on this web site whether registered or not, are the property of their respective owners. The authors of this web site are not sponsored by or affiliated with any of the third-party trade mark or third-party registered trade mark owners, and make no representations about them, their owners, their products or services.</p>
     </footer>
 

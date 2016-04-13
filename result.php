@@ -2023,7 +2023,7 @@ $ybp4 = "ybp4.php{$params}";
 
   <div id="footer-wrapper">
 
-<footer><p>&copy; Copyright 2016. - YouthfulBeautyProducts.org - All Rights Reserved</p>
+<footer><p>&copy; Copyright 2016. - EssenceBeautyProducts.com - All Rights Reserved</p>
       <p>All trademarks on this web site whether registered or not, are the property of their respective owners. The authors of this web site are not sponsored by or affiliated with any of the third-party trade mark or third-party registered trade mark owners, and make no representations about them, their owners, their products or services.</p>
     </footer>
   <div class="container">

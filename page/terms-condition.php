@@ -74,12 +74,12 @@
             </div>
             
             <div class="row content">
-                <p>Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the http://youthfulbeautyproducts.org website (the “Service”) operated by Youthful Beauty Products (“us”, “we”, or “our”).</p>
+                <p>Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the http://essencebeautyproducts.com website (the “Service”) operated by Essence Beauty Products (“us”, “we”, or “our”).</p>
                 <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
                 <p>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</p>
                 <p>Links To Other Web Sites</p>
-                <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Youthful Beauty Products.</p>
-                <p>Youthful Beauty Products has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Youthful Beauty Products shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
+                <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Essence Beauty Products.</p>
+                <p>Essence Beauty Products has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Essence Beauty Products shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
                 <p>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
                 <p>Governing Law</p>
                 <p>These Terms shall be governed and construed in accordance with the laws of United States, without regard to its conflict of law provisions.</p>
